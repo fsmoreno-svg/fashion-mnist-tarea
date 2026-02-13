@@ -35,5 +35,5 @@ def visualizar_reconstruccion(autoencoder, x_test, x_test_flat, n=10):
         plt.axis('off')
 
     plt.tight_layout()
-    plt.savefig('reconstrucciones_autoencoder.png')
+    
     plt.show()

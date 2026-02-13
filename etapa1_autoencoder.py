@@ -110,4 +110,4 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
-print("etapa 1 completada")
+print("etapa 1 terminado")
