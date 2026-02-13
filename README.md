@@ -1,12 +1,15 @@
+# Fashion MNIST Transfer Learning
+
 ## Resultados
 
-
+### Exactitud y Pérdida
+![Exactitud y pérdida](exactitud%20y%20perdida.png)
 
 ### Espacio Latente
-![Espacio Latente](espacio latente.png)
+![Espacio latente](espacio%20latente.png)
 
-### Clasificador - Curvas de entrenamiento
-![Clasificador](exactitud y perdida.png)
+### Resultados Finales
+![Resultados finales](Resultados%20Finales.png)
 
-### Resultados finales
-![Final](Resultados finales.png)
+## Repositorio
+[GitHub](https://github.com/fsmoreno-svg/fashion-mnist-tarea)
