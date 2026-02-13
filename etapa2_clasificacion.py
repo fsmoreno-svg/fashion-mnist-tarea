@@ -40,7 +40,7 @@ clasificador_input = layers.Input(shape=(784,), name='clasificador_input')
 # Encoder pre-entrenado (congelado)
 encoded_features = encoder_preentrenado(clasificador_input)
 
-# 1. Verificar etiquetas (ponlo después de cargar datos)
+# 1. Verificar etiquetas 
 print(np.unique(y_train))  # Debe ser [0 1 2 3 4 5 6 7 8 9]
 
 # Nuevas capas para clasificación - AUMENTADA CAPACIDAD
